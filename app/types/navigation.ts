@@ -1,6 +1,6 @@
 export type RootStackParamList = {
     Login: undefined;
-    MainGabs:{usuario: string};
+    MainTabs:{usuario: string};
     PetDetalhes:{petId: string, nomePet: string};
 };
 
